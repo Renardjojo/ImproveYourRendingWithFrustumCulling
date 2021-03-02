@@ -4,3 +4,4 @@
 
 ### Link :
 - http://www.cs.otago.ac.nz/postgrads/alexis/planeExtraction.pdf : Fast Extraction of Viewing Frustum Planes from the WorldView-Projection Matrix by Gil Gribb and Klaus Hartmann
+- https://gdbooks.gitbooks.io/3dcollisions/content/Chapter2/static_aabb_plane.html : Fast algorythm for intersection AABB/Plane
